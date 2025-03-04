@@ -3,8 +3,8 @@ Demonstrating the entire workflow, from data preprocessing and exploratory data 
 
 FEATRURES:
 
- Data preprocessing and cleaning
- Exploratory Data Analysis (EDA)
- Feature engineering and selection
- Model selection and hyperparameter tuning
- Performance evaluation and visualization
+ 1) Data preprocessing and cleaning   
+ 2) Exploratory Data Analysis (EDA)
+ 3) Feature engineering and selection
+ 4) Model selection and hyperparameter tuning
+ 5) Performance evaluation and visualization
